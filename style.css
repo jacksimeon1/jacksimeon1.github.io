@@ -57,7 +57,7 @@ body {
 /* top bar */
 .top {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   padding-bottom: 16px;
   border-bottom: 1px solid var(--line);
